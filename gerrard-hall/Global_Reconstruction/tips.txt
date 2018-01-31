@@ -1,0 +1,7 @@
+Global SFM may reports "Invalid matches file".
+
+In this version,(?) global SFM expects matches.e.bin file.
+But, that can be obtain by using ComputeMatches with the option '-g' or just provide matches.f.bin file like '--match_file <path>/matches.f.bin'
+
+reference - https://github.com/openMVG/openMVG/issues/1180
+
